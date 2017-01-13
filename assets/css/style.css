@@ -1,0 +1,22 @@
+body{
+	background-color: #ffffff;
+	margin: 0;
+	width: 960px;
+	background: url(https://github.com/jjm552/Basic-Portfolio/blob/master/assets/images/seigaiha.png?raw=true);
+}
+
+
+header{
+	background-color: #cccccc;
+
+}
+
+h1{
+	background-color: #4aaaa5;
+	color: #ffffff;
+}
+
+.contain1{
+	margin: 0;
+	width: 650px;
+}
